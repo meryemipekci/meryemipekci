@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Front end developer/react
 
 - 💬 Ask me about anything that what motivates me to learn.
-- 📫 How to reach me: meryemdelgurgen@hotmail.com
+- 📫 How to reach me: meryemgurgen7@gmail.com
 
 -->
